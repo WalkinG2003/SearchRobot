@@ -1,7 +1,10 @@
 # 人工智能 AI 头像替换工具大全
 
-资源提供：  
-🔎 [Telegram 搜索机器人](https://qoot.cool/SearchRobot) – 专为中文用户打造的 Telegram 群组、频道、工具导航搜索平台！
+💬【seoToProfit】中文 SEO 流量论坛上线！
+讨论关键词策略、站群引流、内容变现、虚拟卡、广告投放等干货玩法，适合做独立站、自媒体、联盟营销的人。
+
+📌 地址：https://qoot.cool/seotoprofit
+搞流量的朋友欢迎加入，一起交流项目/资源/玩法！
 
 ---
 
