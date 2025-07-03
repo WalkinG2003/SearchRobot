@@ -1,6 +1,10 @@
 # TokenPay – 开源区块链支付解决方案 🔗
 
-本资源由 [Telegram 搜索机器人](https://qoot.cool/SearchRobot) 提供。
+💬【seoToProfit】中文 SEO 流量论坛上线！
+讨论关键词策略、站群引流、内容变现、虚拟卡、广告投放等干货玩法，适合做独立站、自媒体、联盟营销的人。
+
+📌 地址：https://qoot.cool/seotoprofit
+搞流量的朋友欢迎加入，一起交流项目/资源/玩法！
 
 🔹 访问资源链接：[TokenPay 开源支付方案](https://qoot.cool/tokenpay-solution)
 
