@@ -1,12 +1,10 @@
-# 🤖 酷搜 🔍 中文搜索机器人
+# 🤖 🔍 中文搜索机器人
 
-> **快速、精准、高效的 Telegram 群组 / 频道 / 视频 / 音乐 / 电影 搜索助手！**
+💬【seoToProfit】中文 SEO 流量论坛上线！
+讨论关键词策略、站群引流、内容变现、虚拟卡、广告投放等干货玩法，适合做独立站、自媒体、联盟营销的人。
 
----
-
-## 🚀 什么是酷搜？
-
-**酷搜 🔍 中文搜索机器人** 是一款基于 Telegram 平台开发的智能搜索工具，专为中文用户量身打造，聚合 Telegram 上的海量资源，轻松实现一键搜索、快速定位感兴趣的内容。
+📌 地址：https://qoot.cool/seotoprofit
+搞流量的朋友欢迎加入，一起交流项目/资源/玩法！
 
 ---
 
@@ -26,7 +24,7 @@
 
 只需在 Telegram 内搜索并启动机器人：
 
-👉 [点击进入酷搜 🔍 中文搜索机器人](https://t.me/qootcool_Bot)
+👉 [点击进入🔍 中文搜索机器人](https://t.me/qootcool_Bot)
 
 或在 Telegram 搜索框输入：`@qootcool_Bot`
 
@@ -73,7 +71,7 @@
 
 ## 🧑‍💻 联系与支持
 
-- 🤝 欢迎加入用户交流群：[【酷搜 🔍 中文搜索机器人】群主联盟](https://qoot.cool/BotAlliance)
+- 🤝 欢迎加入用户交流群：[【🔍 中文搜索机器人】群主联盟](https://qoot.cool/BotAlliance)
 - 📬 Telegram 联系人：[点击联系管理员](https://qoot.cool/SearchRobotCustomerSupport)
 - 🛠️ 项目建议或合作欢迎提交 Issues 或 PR！
 
@@ -81,7 +79,7 @@
 
 ## 📚 相关链接
 
-- 🤖 Telegram Bot 地址：[酷搜 🔍 中文搜索机器人](https://qoot.cool/SearchRobot)
+- 🤖 Telegram Bot 地址：[🔍 中文搜索机器人](https://qoot.cool/SearchRobot)
 - 🧰 资源合集导航：[查看资源合集页](https://qoot.cool/daJwig)
 - 🗂️ 项目源码与文档：即将在 GitHub 发布（敬请关注）
 
